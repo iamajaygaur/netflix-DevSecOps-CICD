@@ -1,4 +1,4 @@
-# Zomato Clone Application Architecture:
+# Netflix Clone Application Architecture:
 
 ![Alt Text](./DevSecOps.png)
 
