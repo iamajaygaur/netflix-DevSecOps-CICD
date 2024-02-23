@@ -1,3 +1,6 @@
+# Zomato Clone Application Architecture:
+
+![Alt Text](./DevSecOps.png)
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
